@@ -4,6 +4,10 @@ An opinionated, batteries-included starter for desktop apps built with
 **Tauri 2 + React 19 + TypeScript + Vite**. Clone it, rename it, and start
 building.
 
+
+# Important
+change identifier, current identifier is com.hamawebdev.atelier 
+
 ## Stack
 
 | Area          | Choice                                                                                   |
